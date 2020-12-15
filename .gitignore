@@ -1,2 +1,3 @@
-SKlearn-classificacao/.ipynb_checkpoints/Untitled-checkpoint.ipynb
-SKlearn-classificacao/.vscode/settings.json
+SKlearn-classificacao/.ipynb_checkpoints/*
+SKlearn-classificacao/.vscode/*
+.vscode/settings.json
